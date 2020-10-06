@@ -162,3 +162,9 @@ version 3 or later. You can redistribute it as is and/or modify it.
 
 Shlomi Fish, hereby puts his modifications to this document under
 https://github.com/shlomif/shlomif-computer-settings/blob/master/shlomif-settings/git/commit-messages/cc0-copyright-disclaimer.txt[CC0 / Public Domain / MIT License / GPL terms]
+
+Credits:
+~~~~~~~~
+
+Thanks to Andreas Sauer for helping me clarifying certain specific points
+Thanks to Shlomi Fish for making some improvements to this tutorial
